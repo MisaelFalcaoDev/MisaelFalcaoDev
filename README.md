@@ -20,6 +20,10 @@ Além das competências técnicas, também tenho uma paixão pela música, tocan
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-4D90FE?style=flat-square&logo=api&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-FF9800?style=flat-square&logo=scrum&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-0096D6?style=flat-square&logo=devops&logoColor=white)
 
 
 ## 📊 Estatísticas do GitHub
