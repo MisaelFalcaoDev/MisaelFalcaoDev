@@ -21,4 +21,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ## 💡 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelFalcaoDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelFalcaoDev&hide=jupyter%20notebook)
