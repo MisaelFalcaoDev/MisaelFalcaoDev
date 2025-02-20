@@ -13,7 +13,9 @@
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MisaelFalcaoDev&show_icons=true&theme=radical)
 
 ## 🔝 Principais Projetos
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=nome-do-repo)](https://github.com/seuusername/nome-do-repo)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=js-developer-pokedex)](https://github.com/MisaelFalcaoDev/js-developer-pokedex)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=fugaEspacial)](https://github.com/MisaelFalcaoDev/fugaEspacial)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=GRAFOS)](https://github.com/MisaelFalcaoDev/GRAFOS)
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
