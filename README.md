@@ -21,13 +21,13 @@
 
 ## 🔝 Principais Projetos
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=js-developer-pokedex)](https://github.com/MisaelFalcaoDev/js-developer-pokedex)
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=fugaEspacial)](https://github.com/MisaelFalcaoDev/fugaEspacial)
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=GRAFOS)](https://github.com/MisaelFalcaoDev/GRAFOS)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=fugaEspacial)](https://github.com/MisaelFalcaoDev/fugaEspacial)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=GRAFOS)](https://github.com/MisaelFalcaoDev/GRAFOS)
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-falc%C3%A3o/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misaelfalcao.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/misaelfalcao_/)
 
 ## 💡 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelFalcaoDev&hide=jupyter%20notebook)
