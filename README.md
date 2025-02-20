@@ -24,6 +24,7 @@ Além das competências técnicas, também tenho uma paixão pela música, tocan
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-4D90FE?style=flat-square&logo=api&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-FF9800?style=flat-square&logo=scrum&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-0096D6?style=flat-square&logo=devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
 ## 📊 Estatísticas do GitHub
