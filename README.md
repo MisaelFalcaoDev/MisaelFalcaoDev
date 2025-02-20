@@ -25,6 +25,7 @@ Além das competências técnicas, também tenho uma paixão pela música, tocan
 ![Scrum](https://img.shields.io/badge/-Scrum-FF9800?style=flat-square&logo=scrum&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-0096D6?style=flat-square&logo=devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 ## 📊 Estatísticas do GitHub
