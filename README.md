@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou Misael Falcão!
+# 👋 Hi, I'm Misael Falcão!
 
-## 🚀 Sobre mim
-Olá, meu nome é **Misael Falcão Luz de Souza** e gostaria de compartilhar um pouco sobre minha trajetória. Estou atualmente no 8º período do curso de **Engenharia da Computação na Universidade Federal de Sergipe** (UFS) e também cursando o último período em **Inteligência Artificial na UNINASSAU**.
+## 🚀 About me
+Hello, my name is **Misael Falcão Luz de Souza**, and I would like to share a bit about my journey. I am currently in the 8th semester of the **Computer Engineering** program at the Federal University of Sergipe (UFS) and also in the final semester of the **Artificial Intelligence** program at UNINASSAU. 
 
-Em termos de **experiência profissional**, atualmente sou estagiário em **Análise de Dados na Delegacia de Atendimento à Mulher (DAGV)**, em Nossa Senhora do Socorro/SE. Nesse papel, analiso e interpreto dados relacionados a casos de violência doméstica, desenvolvendo relatórios e apresentações que apoiam a tomada de decisões. Além disso, colaboro com equipes multidisciplinares para otimizar processos.
+In terms of professional experience, I am currently a **Data Analysis** intern at the Women's Assistance Police Station (DAGV) in Nossa Senhora do Socorro/SE. In this role, I analyze and interpret data related to domestic violence cases, developing reports and presentations that support decision-making. Additionally, I collaborate with multidisciplinary teams to optimize processes. 
 
-Antes disso, atuei no **Ministério Público do Trabalho, de 2022 a 2024**, onde fui responsável pela **manutenção e suporte técnico de sistemas internos, além de desenvolver novas funcionalidades e melhorias em sistemas já existentes**. Meu trabalho também incluía **atendimento a usuários e resolução de problemas técnicos**.
+Before that, I worked at the Labor Prosecutor's Office from 2022 to 2024, where I was responsible for **maintaining and providing technical support for internal systems, as well as developing new features and improvements for existing systems. My work also included user support and troubleshooting technical issues.**
 
-Minhas habilidades técnicas incluem **proficiência em várias linguagens de programação, como C, Python, Java, JavaScript, HTML e CSS, além de conhecimento em SQL e gestão de dados**. Tenho experiência no **desenvolvimento e integração de APIs** e sou especializado em **tradução entre Português e Inglês**.
+My **technical skills** include proficiency in several programming languages, such as **C, Python, Java, JavaScript, HTML, and CSS, as well as knowledge of SQL and data management.** I have experience in **API development and integration and specialize in translation between Portuguese and English.** 
 
-Além das competências técnicas, também tenho uma paixão pela música, tocando violão, guitarra e teclado. Sou proativo, criativo e gosto de trabalhar em equipe, sempre buscando soluções inovadoras em ambientes colaborativos.
+Beyond technical skills, I also have a passion for music, playing the guitar, electric guitar, and keyboard. I am proactive, creative, and enjoy working in a team, always seeking innovative solutions in collaborative environments.
 
-## 🛠 Habilidades
+## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -28,18 +28,21 @@ Além das competências técnicas, também tenho uma paixão pela música, tocan
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## 📊 Estatísticas do GitHub
+## 📊 Stats
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MisaelFalcaoDev&show_icons=true&theme=radical)
 
-## 🔝 Principais Projetos
+## 🔝 Projects
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=js-developer-pokedex)](https://github.com/MisaelFalcaoDev/js-developer-pokedex)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=fugaEspacial)](https://github.com/MisaelFalcaoDev/fugaEspacial)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MisaelFalcaoDev&repo=GRAFOS)](https://github.com/MisaelFalcaoDev/GRAFOS)
 
-## 📫 Como me encontrar
+## 📫 How to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-falc%C3%A3o/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misaelfalcao.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/misaelfalcao_/)
 
-## 💡 Linguagens mais usadas
+## See my resume
+[Resume](https://drive.google.com/file/d/1zBm3MFQZGBTmu-HED9Y_LOUKy6zYUdWc/view?usp=sharing)
+
+## 💡 Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelFalcaoDev&hide=jupyter%20notebook)
